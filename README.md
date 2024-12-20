@@ -13,6 +13,15 @@ I'm a backend developer, tech enthusiast, sports lover, hiker, explorer, and avi
 
 ---
 
+### Background:
+
+- 🎓 **Education**: 
+  - Bachelor of Science in Computer Science, University of California, San Diego (2020)
+- 🏆 **Certifications**: 
+  - AWS Certified Solutions Architect – Associate, Amazon Web Services (2024)
+
+---
+
 ### What I'm Looking For:
 I'm always open to collaborating on cool, impactful projects! Some ideas include:
 - 🤖 **Machine Learning**: AI-driven insights, predictive models, or innovative use cases.
@@ -28,4 +37,9 @@ Got something awesome in mind? Let’s team up!
 - 📧 Email: [rafael.g.cervantes@gmail.com](mailto:rafael.g.cervantes@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repos and reach out if you’d like to collaborate. 🚀
+
+
+
+
+
 
